@@ -1,6 +1,6 @@
 # Predict activity quality from activity monitors
-Onur Akpolat  
-24. January 2015  
+Krishna Teja AVR  
+24. January 2025  
 
 ##Synopsis
 
